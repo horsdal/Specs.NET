@@ -1,0 +1,4 @@
+<Modules>
+  <Module PersistentId="63CA7420-0D4F-4614-8824-6EFB0E78FC8F" ModuleId="Specs" />
+  <Module PersistentId="83DD7E12-A705-4DBA-9D71-09C8973D9382" ModuleId="nunit.framework.dll" />
+</Modules>
