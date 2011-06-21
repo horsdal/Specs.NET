@@ -1,0 +1,14 @@
+To try this out open the Specs.sln file in Visual Studio.
+Fix the nunit reference in the Specs project.
+Run the tests in LeapYearTest. The following output should be produced:
+
+------------------------
+A leap year should
+	be any year divisible by 400
+	but not other years divisible by 100
+	and all other years divisible by 4
+
+1 passed, 0 failed, 0 skipped, took 2,09 seconds (NUnit 2.5.5).
+-------------------------
+
+The LeapYearTest file shows how these extension methods work. Enjoy!
